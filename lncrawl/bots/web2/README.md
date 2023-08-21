@@ -19,7 +19,7 @@ A live demo is availible at https://lncrawler.monster/
 - [Pictures](#pictures)
   
   
-## to get started
+## To get started
 
 ### Prerequisites
 
